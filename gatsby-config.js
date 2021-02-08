@@ -8,7 +8,7 @@ const siteMetadata = {
   title: `Testing Site`,
   description: `Physics, machine learning, sustainability and web development.`,
   author: `Janosh Riebesell`,
-  url: `https://super-duper-janosh.netlify.app`,
+  url: `https://stupefied-allen-f70cac.netlify.app`,
 }
 
 const gatsbyRemarkPlugins = [
