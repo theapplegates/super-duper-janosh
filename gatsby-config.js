@@ -5,10 +5,10 @@ const rssOptions = require(`./src/utils/rss`)
 require(`dotenv`).config()
 
 const siteMetadata = {
-  title: `janosh.dev`,
+  title: `Testing Site`,
   description: `Physics, machine learning, sustainability and web development.`,
   author: `Janosh Riebesell`,
-  url: `https://janosh.dev`,
+  url: `https://super-duper-janosh.netlify.app`,
 }
 
 const gatsbyRemarkPlugins = [
