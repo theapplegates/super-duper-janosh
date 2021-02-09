@@ -77,15 +77,6 @@
     "clean": "gatsby clean && gatsby build && gatsby serve -o -H 0.0.0.0"
   },
   "keywords": [
-    "janosh riebesell",
-    "personal blog",
-    "portfolio",
-    "physics",
-    "machine learning",
-    "web development",
-    "science",
-    "nature",
-    "gatsby",
     "styled-components"
   ],
   "eslintIgnore": [
